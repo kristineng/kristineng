@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for: **Data Science / Data Analysis Internship, Actuarial Internship, Financial Risk Management Internship**
 
-- 🌱 My technical skills include: **Python, R, C, HTML/CSS**
+- 🌱 My technical skills include: **Python, R, Excel, C, HTML/CSS**
 
 - 🌱 I'm currently learning: **Statistics, Business Analysis, Machine Learning**
 
