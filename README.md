@@ -4,7 +4,7 @@
 
 - 🔭 My projects are mostly on **Data Analytics**
 
-- 🤝 I’m looking for: **Data Science / Data Analysis Internship, Actuarial Internship**
+- 🤝 I’m looking for: **Data Science / Data Analysis Internship, Actuarial Internship, Financial Risk Management Internship**
 
 - 🌱 My technical skills include: **Python, R, C, HTML/CSS**
 
