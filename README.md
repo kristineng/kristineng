@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kristine.ng.vn@gmail.com**
 
-- 📄 My Resume (to be updated regularly) https://drive.google.com/file/d/1VB0mlBaeD4hYBymUvyrxaC3toMynoV_F/view?usp=sharing
+- 📄 My Resume (to be updated regularly) 
 
 - ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Beginner)**
 
