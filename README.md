@@ -6,15 +6,15 @@
 
 - 🤝 I’m looking for: **Data Science / Data Analysis Internship, Actuarial Internship, Financial Risk Management Internship**
 
-- 🌱 My technical skills include: **Python, R, Excel, C, HTML/CSS**
+- 🌱 My technical skills include: **Python, R, Excel, VBA (Excel), Access, SQL, Tableau, C, HTML/CSS**
 
-- 🌱 I'm currently learning: **Statistics, Business Analysis, Machine Learning**
+- 🌱 I'm currently learning: **Statistics, Risk Management, Machine Learning**
 
 - 📫 How to reach me **kristine.ng.vn@gmail.com**
 
 - 📄 My Resume (to be updated regularly) 
 
-- ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Beginner)**
+- ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Beginner), Cantonese (Beginner)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
