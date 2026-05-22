@@ -10,10 +10,6 @@
 
 - 🌱 I'm currently learning: **Statistics, Risk Management, Machine Learning**
 
-- 📫 How to reach me **kristine.ng.vn@gmail.com**
-
-- 📄 My Resume (to be updated regularly) 
-
 - ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Beginner), Cantonese (Beginner)**
 
 <h3 align="left">Languages and Tools:</h3>
