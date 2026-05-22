@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kristine Nguyen</h1>
-<h3 align="center">An Interdisciplinary Data Analytics and Statistics student looking for Data Analyst internship.</h3>
+<h3 align="center">An Interdisciplinary Data Analytics and Statistics student.</h3>
 
 - 🔭 My projects are mostly on **Data Analytics**
 
