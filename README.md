@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for: **Data Science / Data Analysis Internship, Actuarial Internship, Risk Management Internship**
 
-- 🌱 My technical skills include: **Python, R, Excel, VBA (Excel), Access, SQL, Tableau, C, HTML/CSS**
+- 🌱 My technical skills include: **Python, R, Excel, VBA (Excel), Access, SQL, Tableau, C, HTML/CSS, Power Automate, GIS**
 
 - 🌱 I'm currently learning: **Statistics, Risk Management, Machine Learning**
 
